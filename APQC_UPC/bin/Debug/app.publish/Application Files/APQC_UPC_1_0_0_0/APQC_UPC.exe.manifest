@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="APQC_UPC.exe" version="1.0.0.0" publicKeyToken="4556d34ccf864a96" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="APQC_UPC" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="APQC_UPC.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="APQC_UPC.exe" size="381440">
+      <assemblyIdentity name="APQC_UPC" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>avlQDE0oIIVj6jLQnKYIOHGvEGShyoCJIyPHjTSk/Ew=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="424448">
+      <assemblyIdentity name="MySql.Data" version="6.9.9.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>z1JCyodj5/UiC37FF0m11VPrQRt8tszqKfa8jk+yNYc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="APQC_UPC.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>h0UeIdteCM29dGVw07LmHp593fPbh0IN11GyN3f2uRA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-JDSIS7L\Risxi Bagus Eriyana" issuerKeyHash="d29304f9f54a17f59446d7fba72c67af7d5e6281" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>OXeFpI/TeZw1V9Xat0Ump3bfqHk01xn3lsFnew+i9Tw=</DigestValue></Reference></SignedInfo><SignatureValue>ORhmVQqSIj4TaTx8kZXe6L2Ran9QhcpHm4+SNOaNGxQs5/GDCsQLlBEBEZctk+jkLU0kVJVfAm7mBtNAhxn6lQmp/Xw5JW96JgqvhNSZOp6ar0XQDcO+VGdAftJG2Hx46oO0cr+3xV6s8USkUI9hJwAt9ph1UY43ukV8CrIusq8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>r85Vft52bChWVjFGZzVr6sbGB4YxvhsUhlNXtWDf11Rud//zeWThMlbA8uEiRfN33WY6UQVHHTFAQfk80NSwq9SfINcX8rbbj0eXM257YQ9+vA32gJ5WXl204ykMNcAmz2HqhaTlMYLE9vA5Z9ItA+itmSw+4f8/i7WTUkbAcoU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="3cf5a20f7b67c196f719d73479a8df76a72645b7dad557359c79d38fa4857739" Description="" Url=""><as:assemblyIdentity name="APQC_UPC.exe" version="1.0.0.0" publicKeyToken="4556d34ccf864a96" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-JDSIS7L\Risxi Bagus Eriyana</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>rlLuhlGOuRMc0JzFpdKmMGGqf/naKxSNGf+TlLkitv4=</DigestValue></Reference></SignedInfo><SignatureValue>oQ/WiiojLOKJeGlv0IpdEmt4TpHtH9NYe8nd/GM+H4ynAD0lVG7PIbErHQL9F2uuHky2CSNzmUQPDlHkuEj0b7yPx7pPNo9MWkrgOTwD1ligrW5Te4ASCABIbPglgK9a/JfxHW6BHfENKCJyoRGYApNJNJTtdfCvq4YqSAIjDLM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>r85Vft52bChWVjFGZzVr6sbGB4YxvhsUhlNXtWDf11Rud//zeWThMlbA8uEiRfN33WY6UQVHHTFAQfk80NSwq9SfINcX8rbbj0eXM257YQ9+vA32gJ5WXl204ykMNcAmz2HqhaTlMYLE9vA5Z9ItA+itmSw+4f8/i7WTUkbAcoU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICJTCCAY6gAwIBAgIQPiyX/l6iXodHGrxrGlFBtTANBgkqhkiG9w0BAQsFADBRMU8wTQYDVQQDHkYARABFAFMASwBUAE8AUAAtAEoARABTAEkAUwA3AEwAXABSAGkAcwB4AGkAIABCAGEAZwB1AHMAIABFAHIAaQB5AGEAbgBhMB4XDTIwMDMwMzA4MzEzNVoXDTIxMDMwMzE0MzEzNVowUTFPME0GA1UEAx5GAEQARQBTAEsAVABPAFAALQBKAEQAUwBJAFMANwBMAFwAUgBpAHMAeABpACAAQgBhAGcAdQBzACAARQByAGkAeQBhAG4AYTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAr85Vft52bChWVjFGZzVr6sbGB4YxvhsUhlNXtWDf11Rud//zeWThMlbA8uEiRfN33WY6UQVHHTFAQfk80NSwq9SfINcX8rbbj0eXM257YQ9+vA32gJ5WXl204ykMNcAmz2HqhaTlMYLE9vA5Z9ItA+itmSw+4f8/i7WTUkbAcoUCAwEAATANBgkqhkiG9w0BAQsFAAOBgQAGO1wvkBAzpVnFkqLjP2WYsoEWeyYuR+c4ER+HighMcMq0ZuAHMAybqHSTenwEXDXkLbUqmbwSwTvIzRA6Fbb6ayvzcvDdEHLki2hC2SSNntEJlDKt31cNclkfkxWfd7vwOJfqFGyvtoe2cz9sF5uPyckL33bMrkufJzpFkhU9FQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

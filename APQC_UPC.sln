@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "APQC_UPC", "APQC_UPC\APQC_UPC.vbproj", "{F7DB9409-4637-465D-B7A7-98C5C9197E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7DB9409-4637-465D-B7A7-98C5C9197E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DB9409-4637-465D-B7A7-98C5C9197E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DB9409-4637-465D-B7A7-98C5C9197E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DB9409-4637-465D-B7A7-98C5C9197E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

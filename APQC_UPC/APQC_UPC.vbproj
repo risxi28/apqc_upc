@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F7DB9409-4637-465D-B7A7-98C5C9197E7C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>APQC_UPC.My.MyApplication</StartupObject>
+    <RootNamespace>APQC_UPC</RootNamespace>
+    <AssemblyName>APQC_UPC</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\kerjaan\DATA U MG\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>APQC_UPC.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>APQC_UPC.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>AF9422673DE5779E0FDE4AF8AECFA0813272941F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>APQC_UPC_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\v4.5\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cetak2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cetak2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="cetakcorr.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cetakcorr.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="cetakoutgoing.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cetakoutgoing.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="cetakUmum.Designer.vb">
+      <DependentUpon>cetakUmum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cetakUmum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DaftarUser.Designer.vb">
+      <DependentUpon>DaftarUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DaftarUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_corr.Designer.vb">
+      <DependentUpon>Edit_corr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_corr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_incoming.Designer.vb">
+      <DependentUpon>Edit_incoming.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_incoming.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hapus_corr.Designer.vb">
+      <DependentUpon>Hapus_corr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hapus_corr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hapus_finising.Designer.vb">
+      <DependentUpon>hapus_finising.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hapus_finising.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hapus_flexo.Designer.vb">
+      <DependentUpon>hapus_flexo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hapus_flexo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputFinising.Designer.vb">
+      <DependentUpon>InputFinising.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InputFinising.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputFlexo.Designer.vb">
+      <DependentUpon>InputFlexo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InputFlexo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputIncoming.Designer.vb">
+      <DependentUpon>InputIncoming.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InputIncoming.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputCorr.Designer.vb">
+      <DependentUpon>InputCorr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InputCorr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="input_outgoing.Designer.vb">
+      <DependentUpon>input_outgoing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="input_outgoing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loading_corr.Designer.vb">
+      <DependentUpon>loading_corr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="loading_corr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loading_incoming.Designer.vb">
+      <DependentUpon>loading_incoming.vb</DependentUpon>
+    </Compile>
+    <Compile Include="loading_incoming.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterLogin.Designer.vb">
+      <DependentUpon>MasterLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuUtama.Designer.vb">
+      <DependentUpon>MenuUtama.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gramatur.Designer.vb">
+      <DependentUpon>gramatur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gramatur.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="reportCorr.Designer.vb">
+      <DependentUpon>reportCorr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reportCorr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_finising.Designer.vb">
+      <DependentUpon>report_finising.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_finising.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_flexo.Designer.vb">
+      <DependentUpon>report_flexo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_flexo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_incoming.Designer.vb">
+      <DependentUpon>report_incoming.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_incoming.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_outgoing.Designer.vb">
+      <DependentUpon>report_outgoing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_outgoing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="supplier.Designer.vb">
+      <DependentUpon>supplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="supplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="cetak2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cetak2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cetakcorr.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cetakcorr.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cetakoutgoing.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cetakoutgoing.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cetakUmum.resx">
+      <DependentUpon>cetakUmum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DaftarUser.resx">
+      <DependentUpon>DaftarUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_corr.resx">
+      <DependentUpon>Edit_corr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_incoming.resx">
+      <DependentUpon>Edit_incoming.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hapus_corr.resx">
+      <DependentUpon>Hapus_corr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hapus_finising.resx">
+      <DependentUpon>hapus_finising.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hapus_flexo.resx">
+      <DependentUpon>hapus_flexo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputFinising.resx">
+      <DependentUpon>InputFinising.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputFlexo.resx">
+      <DependentUpon>InputFlexo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputIncoming.resx">
+      <DependentUpon>InputIncoming.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputCorr.resx">
+      <DependentUpon>InputCorr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="input_outgoing.resx">
+      <DependentUpon>input_outgoing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loading_corr.resx">
+      <DependentUpon>loading_corr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loading_incoming.resx">
+      <DependentUpon>loading_incoming.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterLogin.resx">
+      <DependentUpon>MasterLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuUtama.resx">
+      <DependentUpon>MenuUtama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gramatur.resx">
+      <DependentUpon>gramatur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportCorr.resx">
+      <DependentUpon>reportCorr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_finising.resx">
+      <DependentUpon>report_finising.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_flexo.resx">
+      <DependentUpon>report_flexo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_incoming.resx">
+      <DependentUpon>report_incoming.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_outgoing.resx">
+      <DependentUpon>report_outgoing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supplier.resx">
+      <DependentUpon>supplier.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="APQC_UPC_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="qc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

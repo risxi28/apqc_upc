@@ -1,0 +1,261 @@
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\bin\Debug\APQC_UPC.exe.config
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\bin\Debug\APQC_UPC.exe
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\bin\Debug\APQC_UPC.pdb
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\bin\Debug\APQC_UPC.xml
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\bin\Debug\MySql.Data.dll
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.Edit_incoming.resources
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.InputIncoming.resources
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.InputCorr.resources
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.loading_incoming.resources
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.MasterLogin.resources
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.MenuUtama.resources
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.gramatur.resources
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.Resources.resources
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.reportCorr.resources
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.report_incoming.resources
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.supplier.resources
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.vbproj.GenerateResource.Cache
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.exe
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.xml
+c:\users\risxi bagus eriyana\documents\visual studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.pdb
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.vbprojResolveAssemblyReference.cache
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.loading_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC\APQC_UPC\bin\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC\APQC_UPC\bin\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.Edit_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC\APQC_UPC\obj\Debug\APQC_UPC.Hapus_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\bin\Debug\APQC_UPC.exe.config
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.exe
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.xml
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.pdb
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\bin\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\bin\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\bin\Debug\APQC_UPC.exe
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\bin\Debug\APQC_UPC.pdb
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\bin\Debug\APQC_UPC.xml
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\bin\Debug\MySql.Data.dll
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.vbprojResolveAssemblyReference.cache
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.Edit_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.Edit_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.Hapus_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.InputIncoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.InputCorr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.loading_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.loading_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.MasterLogin.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.MenuUtama.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.gramatur.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.Resources.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.reportCorr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.report_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.supplier.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.vbproj.GenerateResource.Cache
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 04-03\APQC_UPC\obj\Debug\APQC_UPC.InputFlexo.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\bin\Debug\APQC_UPC.exe.config
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.exe
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.xml
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.pdb
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\bin\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\bin\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\bin\Debug\APQC_UPC.exe
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\bin\Debug\APQC_UPC.pdb
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\bin\Debug\APQC_UPC.xml
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\bin\Debug\MySql.Data.dll
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.vbprojResolveAssemblyReference.cache
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.Edit_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.Edit_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.Hapus_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.InputFlexo.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.InputIncoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.InputCorr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.loading_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.loading_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.MasterLogin.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.MenuUtama.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.gramatur.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.Resources.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.reportCorr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.report_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.supplier.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.vbproj.GenerateResource.Cache
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 10-03\APQC_UPC\obj\Debug\APQC_UPC.hapus_flexo.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\bin\Debug\APQC_UPC.exe.config
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.exe
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.xml
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.pdb
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\bin\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\bin\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\bin\Debug\APQC_UPC.exe
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\bin\Debug\APQC_UPC.pdb
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\bin\Debug\APQC_UPC.xml
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\bin\Debug\MySql.Data.dll
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.vbprojResolveAssemblyReference.cache
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.Edit_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.Edit_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.Hapus_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.hapus_flexo.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.InputFlexo.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.InputIncoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.InputCorr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.loading_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.loading_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.MasterLogin.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.MenuUtama.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.gramatur.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.Resources.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.reportCorr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.report_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.supplier.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.vbproj.GenerateResource.Cache
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.DaftarUser.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 13-03\APQC_UPC\obj\Debug\APQC_UPC.InputFinising.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\bin\Debug\APQC_UPC.exe.config
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.exe
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.xml
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.pdb
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\bin\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\bin\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\bin\Debug\APQC_UPC.exe
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\bin\Debug\APQC_UPC.pdb
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\bin\Debug\APQC_UPC.xml
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\bin\Debug\MySql.Data.dll
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.vbprojResolveAssemblyReference.cache
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.DaftarUser.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.Edit_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.Edit_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.Hapus_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.hapus_flexo.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.InputFinising.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.InputFlexo.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.InputIncoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.InputCorr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.input_outgoing.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.loading_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.loading_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.MasterLogin.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.MenuUtama.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.gramatur.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.Resources.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.reportCorr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.report_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.supplier.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.vbproj.GenerateResource.Cache
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 18-03\APQC_UPC\obj\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\bin\Debug\APQC_UPC.exe.config
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.exe
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.xml
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.pdb
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\bin\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\bin\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\bin\Debug\APQC_UPC.exe
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\bin\Debug\APQC_UPC.pdb
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\bin\Debug\APQC_UPC.xml
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\bin\Debug\MySql.Data.dll
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.vbprojResolveAssemblyReference.cache
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.cetakUmum.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.DaftarUser.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.Edit_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.Edit_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.Hapus_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.hapus_flexo.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.InputFinising.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.InputFlexo.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.InputIncoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.InputCorr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.input_outgoing.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.loading_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.loading_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.MasterLogin.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.MenuUtama.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.gramatur.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.Resources.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.reportCorr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.report_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.supplier.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.vbproj.GenerateResource.Cache
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 27-03\APQC_UPC\obj\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\bin\Debug\APQC_UPC.exe.config
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.exe
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.xml
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.pdb
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\bin\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\bin\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\bin\Debug\APQC_UPC.exe
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\bin\Debug\APQC_UPC.pdb
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\bin\Debug\APQC_UPC.xml
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\bin\Debug\MySql.Data.dll
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.vbprojResolveAssemblyReference.cache
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.cetakUmum.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.DaftarUser.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.Edit_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.Edit_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.Hapus_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.hapus_flexo.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.InputFinising.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.InputFlexo.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.InputIncoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.InputCorr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.input_outgoing.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.loading_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.loading_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.MasterLogin.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.MenuUtama.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.gramatur.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.Resources.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.reportCorr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.report_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.supplier.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.vbproj.GenerateResource.Cache
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.report_flexo.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.report_finising.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC 29-03\APQC_UPC\obj\Debug\APQC_UPC.report_outgoing.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\bin\Debug\APQC_UPC.exe.config
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.exe
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.xml
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.pdb
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\bin\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\bin\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\bin\Debug\APQC_UPC.exe
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\bin\Debug\APQC_UPC.pdb
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\bin\Debug\APQC_UPC.xml
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\bin\Debug\MySql.Data.dll
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.vbprojResolveAssemblyReference.cache
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.cetakUmum.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.DaftarUser.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.Edit_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.Edit_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.Hapus_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.hapus_flexo.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.InputFinising.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.InputFlexo.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.InputIncoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.InputCorr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.input_outgoing.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.loading_corr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.loading_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.MasterLogin.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.MenuUtama.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.gramatur.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.Resources.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.reportCorr.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.report_finising.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.report_flexo.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.report_incoming.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.report_outgoing.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.supplier.resources
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.vbproj.GenerateResource.Cache
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.exe.manifest
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.application
+C:\Users\Risxi Bagus Eriyana\Documents\Visual Studio 2012\Projects\APQC_UPC baru\APQC_UPC\obj\Debug\APQC_UPC.hapus_finising.resources
